@@ -75,10 +75,9 @@ print("Prdicted Result:",y_prednew)
 ## Output:
 <img width="1763" height="483" alt="image" src="https://github.com/user-attachments/assets/01fc78d9-ef97-4024-9803-b8e8c53673ab" />
 
-<img width="1763" height="483" alt="image" src="https://github.com/user-attachments/assets/e89b6182-1277-4560-ad1b-99439f9bdb8d" />
-
 <img width="1441" height="837" alt="image" src="https://github.com/user-attachments/assets/17f5b0f0-5648-455a-87b0-c0de7e3a11cc" />
 
+<img width="838" height="245" alt="image" src="https://github.com/user-attachments/assets/bed4b7e6-1101-412f-82fb-c4180f40004d" />
 
 
 
